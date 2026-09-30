@@ -1,1 +1,0 @@
-const button=document.querySelector('.menu-button'),nav=document.querySelector('.nav');button.addEventListener('click',()=>{const open=nav.classList.toggle('open');button.setAttribute('aria-expanded',open)});
