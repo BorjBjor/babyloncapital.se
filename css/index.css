@@ -64,3 +64,9 @@
 .home-book-cover{display:block;flex:0 0 105px;width:105px}.home-book-cover img{display:block;width:105px;max-width:105px;height:auto;box-shadow:4px 6px 14px rgba(0,0,0,.25)}
 .home-book-copy{min-width:0}.home-book-label{margin:0 0 7px;color:#6c6046;font-size:12px;letter-spacing:.06em}.home-book-copy h2{margin:0 0 14px;color:#172c36;font:28px/1.35 var(--serif)}.home-book-copy h2 span{color:#566065;font-size:21px}.home-book-button{display:inline-flex;align-items:center;gap:22px;color:#172c36;background:#e4b052;font-size:14px;font-weight:600;text-decoration:none;border:1px solid #be8e37;padding:10px 18px}.home-book-button:hover{color:#172c36;background:#efc474;border-color:#a47728}.home-book-button:focus-visible,.home-book-cover:focus-visible{outline:2px solid var(--gold2);outline-offset:5px}
 @media(max-width:520px){.home-book-grid{gap:18px}.home-book-cover,.home-book-cover img{width:65px;max-width:65px}.home-book-cover{flex-basis:65px}.home-book-copy h2{font-size:21px}.home-book-copy h2 span{display:block;font-size:16px}.home-book-label{font-size:11px}}
+
+/* Improve small-text contrast on the cream sections. */
+.arkad-left .kicker,.contact .eyebrow,.contact .info-link{color:#765019}
+.contact .eyebrow:before{border-top-color:#765019}
+.contact .info-link{border-bottom-color:#765019}
+.contact .info-link:hover,.contact .info-link:focus{color:#071522;border-bottom-color:#071522}
