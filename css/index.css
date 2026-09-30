@@ -59,8 +59,8 @@
 .contact-email{max-width:100%;min-width:0}.contact-email svg{flex-shrink:0}.contact-email span{min-width:0;overflow-wrap:anywhere}
 
 /* Compact book introduction below the method section. */
-.home-book{background:#07131f;padding:26px 0;border-top:1px solid var(--line)}
+.home-book{background:#f4efdf;padding:36px 0;border-top:1px solid #d9c99f;border-bottom:1px solid #d9c99f;color:#172c36}
 .home-book-grid{display:flex;align-items:center;gap:26px}
-.home-book-cover{display:block;flex:0 0 82px;width:82px}.home-book-cover img{display:block;width:82px;max-width:82px;height:auto;box-shadow:4px 6px 14px rgba(0,0,0,.25)}
-.home-book-copy{min-width:0}.home-book-label{margin:0 0 7px;color:var(--blue);font-size:12px;letter-spacing:.06em}.home-book-copy h2{margin:0 0 10px;color:#fff;font:24px/1.35 var(--serif)}.home-book-copy h2 span{color:var(--blue);font-size:19px}.home-book-button{display:inline-flex;gap:16px;color:var(--gold2);font-size:14px;text-decoration:none;border-bottom:1px solid rgba(240,188,88,.5);padding-bottom:3px}.home-book-button:hover{color:#fff;border-color:#fff}.home-book-button:focus-visible,.home-book-cover:focus-visible{outline:2px solid var(--gold2);outline-offset:5px}
+.home-book-cover{display:block;flex:0 0 105px;width:105px}.home-book-cover img{display:block;width:105px;max-width:105px;height:auto;box-shadow:4px 6px 14px rgba(0,0,0,.25)}
+.home-book-copy{min-width:0}.home-book-label{margin:0 0 7px;color:#6c6046;font-size:12px;letter-spacing:.06em}.home-book-copy h2{margin:0 0 14px;color:#172c36;font:28px/1.35 var(--serif)}.home-book-copy h2 span{color:#566065;font-size:21px}.home-book-button{display:inline-flex;align-items:center;gap:22px;color:#172c36;background:#e4b052;font-size:14px;font-weight:600;text-decoration:none;border:1px solid #be8e37;padding:10px 18px}.home-book-button:hover{color:#172c36;background:#efc474;border-color:#a47728}.home-book-button:focus-visible,.home-book-cover:focus-visible{outline:2px solid var(--gold2);outline-offset:5px}
 @media(max-width:520px){.home-book-grid{gap:18px}.home-book-cover,.home-book-cover img{width:65px;max-width:65px}.home-book-cover{flex-basis:65px}.home-book-copy h2{font-size:21px}.home-book-copy h2 span{display:block;font-size:16px}.home-book-label{font-size:11px}}
