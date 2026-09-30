@@ -1,0 +1,11 @@
+/* Consistent menu typography; orange marks only the current page/language. */
+.site-header .nav a,.site-header .nav .drop-button,.site-header .nav .language-switcher a{
+ font-family:Arial,Helvetica,sans-serif!important;font-size:13px!important;font-weight:400!important;line-height:1.4!important;letter-spacing:normal!important;color:#fff!important;opacity:1!important;text-decoration:none;
+}
+.site-header .nav .active,.site-header .nav [aria-current="page"]{color:#efbc58!important}
+.site-header .nav .language-switcher{font:13px/1.4 Arial,Helvetica,sans-serif!important;letter-spacing:normal!important;color:#fff!important}
+.site-header .nav .language-switcher a{color:#fff!important;opacity:.55!important;border-bottom:0!important;padding-bottom:.2rem}
+.site-header .nav .language-switcher a.active,.site-header .nav .language-switcher a[aria-current="page"]{color:#efbc58!important;opacity:1!important;border-bottom:1px solid #efbc58!important}
+.site-header .nav .language-switcher span{color:#fff!important;opacity:.35!important}
+.site-header .nav .contact-link{border-color:#efbc58!important;color:#efbc58!important}
+.site-header .menu-button{color:#fff!important;border-color:#efbc58!important}
