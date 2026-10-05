@@ -107,3 +107,6 @@
 
 .meetings .meeting-card { color: #173637; }
 .meetings .meeting-card.featured { color: #fff; }
+
+.meeting-city-image { display: block; width: calc(100% + 84px); max-width: none; height: 185px; object-fit: cover; margin: -44px -42px 28px; }
+@media(max-width:540px) { .meeting-city-image { width: calc(100% + 48px); height: 165px; margin: -30px -24px 24px; } }
