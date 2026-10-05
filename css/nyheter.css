@@ -24,10 +24,10 @@
 .footer-x-link:hover,.footer-x-link:focus-visible{color:#fff;text-decoration:none}
 
 /* Tydliga bekräftelser i de två övre anmälningsformulären */
-#signup-status.show,#costa-status.show{position:relative;display:block;margin:4px 0 0;padding:24px 22px 24px 68px;border:2px solid #45af7c;background:#e4f6ec;color:#07563a;font:700 clamp(19px,2vw,23px)/1.42 var(--serif);box-shadow:0 14px 30px rgba(7,21,34,.18)}
-#signup-status.show:not(.error)::before,#costa-status.show:not(.error)::before{content:"✓";position:absolute;left:21px;top:23px;display:grid;place-items:center;width:32px;height:32px;border-radius:50%;background:#198b5e;color:#fff;font:700 21px/1 var(--sans)}
-#signup-status.show.error,#costa-status.show.error{padding-left:22px;border-color:#d98a4f;background:#fff0e4;color:#7a321b;font:700 16px/1.45 var(--sans)}
-@media(max-width:520px){#signup-status.show,#costa-status.show{padding:21px 17px 21px 60px;font-size:19px}#signup-status.show:not(.error)::before,#costa-status.show:not(.error)::before{left:17px;top:20px}}
+#signup-status.show,.contact-status.show{position:relative;display:block;margin:4px 0 0;padding:24px 22px 24px 68px;border:2px solid #45af7c;background:#e4f6ec;color:#07563a;font:700 clamp(19px,2vw,23px)/1.42 var(--serif);box-shadow:0 14px 30px rgba(7,21,34,.18)}
+#signup-status.show:not(.error)::before,.contact-status.show:not(.error)::before{content:"✓";position:absolute;left:21px;top:23px;display:grid;place-items:center;width:32px;height:32px;border-radius:50%;background:#198b5e;color:#fff;font:700 21px/1 var(--sans)}
+#signup-status.show.error,.contact-status.show.error{padding-left:22px;border-color:#d98a4f;background:#fff0e4;color:#7a321b;font:700 16px/1.45 var(--sans)}
+@media(max-width:520px){#signup-status.show,.contact-status.show{padding:21px 17px 21px 60px;font-size:19px}#signup-status.show:not(.error)::before,.contact-status.show:not(.error)::before{left:17px;top:20px}}
 
 /* Language switcher */
 .language-switcher{display:flex;align-items:center;gap:.42rem;margin-left:.7rem;padding-left:.85rem;border-left:1px solid rgba(154,203,232,.25);font-size:.72rem;letter-spacing:.12em;white-space:nowrap}
