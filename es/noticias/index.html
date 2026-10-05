@@ -38,15 +38,91 @@
   <main>
     <section class="hero"><div class="wrap"><div class="eyebrow">Actualidad de Babylon Capital</div><h1>Noticias</h1><p>Próximos encuentros con inversores, cartas de la sociedad y reuniones grabadas, todo en un mismo lugar.</p></div></section>
 
-    <section class="events" id="traffa-oss"><div class="wrap">
-      <div class="section-head"><div><div class="eyebrow">Próximamente</div><h2>Conócenos.</h2></div><p>En nuestros encuentros presentamos la actividad y respondemos preguntas sobre la sociedad y la gestión de capital.</p></div>
-      <div class="events-grid">
-        <article class="event primary"><div class="date">Encuentro con inversores</div><h3>Uppsala · 17 de noviembre</h3><dl><dt>Lugar</dt><dd>Biblioteca de la Universidad de Uppsala</dd><dt>Hora</dt><dd>19.00</dd><dt>Fecha</dt><dd>17 de noviembre de 2026</dd></dl><p>Una alternativa a las inversiones tradicionales. Te invitamos a conocer Babylon Capital y su enfoque en Managed Futures y el seguimiento de tendencias. Conoce a Henrik Hallenborg y Fredrik Swahn y plantea tus preguntas. Es necesaria la inscripción previa.</p><button class="button" id="signup-toggle" type="button" aria-expanded="false" aria-controls="uppsala-signup">Reserva tu plaza</button><div class="signup" id="uppsala-signup"><h4>Inscríbete en el encuentro</h4><form id="uppsala-form" action="https://forms.digitalplat.org/f/udbfbD5cTLBFJ75uENdn1wNmgNCNIAO7x6ow0N0u" method="post"><div class="signup-grid"><div class="signup-field full"><label for="signup-name">Nombre</label><input id="signup-name" name="name" type="text" autocomplete="name" required></div><div class="signup-field"><label for="signup-email">Correo electrónico</label><input id="signup-email" name="email" type="email" autocomplete="email" required></div><div class="signup-field"><label for="signup-phone">Teléfono</label><input id="signup-phone" name="phone" type="tel" autocomplete="tel"></div><div class="signup-field full"><label for="signup-guests">Número de asistentes</label><select id="signup-guests" name="guests" required><option value="1">1 asistente</option><option value="2">2 asistentes</option><option value="3">3 asistentes</option><option value="4">4 asistentes</option></select></div></div><label class="signup-consent"><input name="consent" type="checkbox" value="on" required><span>Consiento que Babylon Capital AB trate mis datos para gestionar la inscripción. Consulta nuestra <a href="../politica-de-privacidad/">política de privacidad</a>.</span></label><button class="signup-submit" type="submit">Enviar inscripción</button><p class="signup-help">¿Problemas con el formulario? <a href="mailto:henrik.hallenborg@borstjanaren.se?subject=Anm%C3%A4lan%20till%20investerartr%C3%A4ff%2017%20november%202026">Inscríbete por correo electrónico</a>.</p></form><p class="signup-status" id="signup-status" role="status" aria-live="polite"></p></div></article>
-        <article class="event"><div class="date">Costa del Sol</div><h3>30 de octubre–2 de noviembre de 2026</h3><dl><dt>Formato</dt><dd>Golf, cenas y reuniones personales</dd><dt>Zona</dt><dd>Costa del Sol</dd></dl><p>Durante este periodo, Henrik Hallenborg, responsable de la gestión de capital de la sociedad, estará en la Costa del Sol para reuniones personales, cenas y golf. Contacta con nosotros para obtener más información y una invitación personal.</p><button class="button" id="costa-toggle" type="button" aria-expanded="false" aria-controls="costa-signup">Solicitar una invitación personal</button><div class="signup" id="costa-signup"><h4>Contactar con Henrik</h4><form id="costa-form" action="https://forms.digitalplat.org/f/EP3yIL1knn5EVZLpL3YDQx9U4jDUoMErh3QC0zc9" method="post"><input type="hidden" name="meeting" id="meeting-location" value="Costa del Sol"><div class="signup-grid"><div class="signup-field full"><label for="costa-name">Nombre</label><input id="costa-name" name="name" type="text" autocomplete="name" required></div><div class="signup-field"><label for="costa-email">Correo electrónico</label><input id="costa-email" name="email" type="email" autocomplete="email" required></div><div class="signup-field"><label for="costa-phone">Teléfono</label><input id="costa-phone" name="phone" type="tel" autocomplete="tel"></div><div class="signup-field full"><label for="costa-message">Mensaje</label><textarea id="costa-message" name="message" placeholder="Cuéntanos brevemente qué deseas saber o qué formato te interesa."></textarea></div></div><label class="signup-consent"><input name="consent" type="checkbox" value="on" required><span>Consiento que Babylon Capital AB trate mis datos para contactarme en relación con reuniones personales. Consulta nuestra <a href="../politica-de-privacidad/">política de privacidad</a>.</span></label><button class="signup-submit" type="submit">Enviar consulta</button><p class="signup-help">¿Problemas con el formulario? <a href="mailto:henrik.hallenborg@borstjanaren.se?subject=Personlig%20inbjudan%20Costa%20del%20Sol%202026">Contactar con Henrik por correo electrónico</a>.</p></form><p class="signup-status" id="costa-status" role="status" aria-live="polite"></p></div></article>
-        <article class="event"><div class="date">Torrevieja</div><h3>26–29 de octubre de 2026</h3><dl><dt>Formato</dt><dd>Reuniones personales, cenas y golf</dd><dt>Zona</dt><dd>Torrevieja</dd></dl><p>Henrik Hallenborg estará en Torrevieja durante este periodo para reuniones personales, cenas y golf. Contacta con nosotros para obtener más información y una invitación personal.</p><button class="button" type="button" data-meeting="Torrevieja" aria-controls="costa-signup">Solicitar una invitación personal</button></article>
-        <article class="event"><div class="date">Londres</div><h3>9–12 de noviembre de 2026</h3><dl><dt>Formato</dt><dd>Reuniones personales con clientes</dd><dt>Zona</dt><dd>Londres</dd></dl><p>También nos reunimos personalmente con clientes en Londres. Reserva una reunión para conocer mejor Babylon Capital, Managed Futures y la gestión de capital de la sociedad.</p><button class="button" type="button" data-meeting="Londres" aria-controls="costa-signup">Solicitar una invitación personal</button></article>
+    <section id="traffa-oss" class="meetings section-pad">
+      <div class="container meetings-heading">
+        <div><p class="eyebrow green">Próximamente</p><h2>Encuentros con inversores.</h2></div>
+        <p>Los encuentros presentan Babylon Capital, el programa CTA Arkad y el seguimiento de tendencias basado en reglas en los mercados financieros globales. Después habrá tiempo para preguntas.</p>
       </div>
-    </div></section>
+
+      <div class="container meeting-grid">
+        <article class="meeting-card featured torrevieja-card">
+          <p class="meeting-label">Reuniones personales</p>
+          <h3>Torrevieja<br><span>26–29 de octubre de 2026</span></h3>
+          <dl><dt>Zona</dt><dd>Torrevieja</dd><dt>Formato</dt><dd>Café, almuerzo, cena o golf</dd></dl>
+          <p>Henrik Hallenborg estará en Torrevieja del 26 al 29 de octubre y también visitará Benidorm uno de esos días. Aprovecha la ocasión para reunirte con él tomando un café, almorzando, cenando o jugando una partida de golf, y conocer mejor Managed Futures y Arkad. Contacta con Henrik para concertar una reunión personal.</p>
+          <button class="meeting-button" type="button" data-toggle="torrevieja-signup" data-meeting="Torrevieja · 26–29 de octubre de 2026" aria-controls="torrevieja-signup" aria-expanded="false">Contactar con Henrik</button>
+        <div class="signup-panel" id="torrevieja-signup">
+            <h4>Contacta con Henrik</h4>
+            <form class="ajax-form" action="https://forms.digitalplat.org/f/EP3yIL1knn5EVZLpL3YDQx9U4jDUoMErh3QC0zc9" method="post" data-success="¡Gracias! Hemos recibido tu solicitud. Responderemos lo antes posible.">
+              <div class="form-grid"><div class="field full"><label for="torrevieja-name">Nombre</label><input id="torrevieja-name" name="name" type="text" autocomplete="name" required></div><div class="field"><label for="torrevieja-email">Correo electrónico</label><input id="torrevieja-email" name="email" type="email" autocomplete="email" required></div><div class="field"><label for="torrevieja-phone">Número de teléfono</label><input id="torrevieja-phone" name="phone" type="tel" autocomplete="tel"></div><div class="field full"><label for="torrevieja-message">Mensaje</label><textarea id="torrevieja-message" name="message" placeholder="Indica dónde y cómo prefieres reunirte."></textarea></div></div>
+              <input type="hidden" name="source" value="Babylon Capital – Torrevieja · 26–29 de octubre de 2026">
+              <label class="form-consent"><input name="consent" type="checkbox" value="on" required><span>Autorizo a Babylon Capital a tratar mis datos para ponerse en contacto conmigo sobre una reunión. Consulta la <a href="../politica-de-privacidad/">política de privacidad</a>.</span></label>
+              <button class="form-submit" type="submit">Enviar solicitud</button>
+              <p class="form-help">También puedes <a href="mailto:henrik.hallenborg@borstjanaren.se?subject=Personligt%20m%C3%B6te%20Torrevieja%20%C2%B7%2026%E2%80%9329%20de%20octubre%20de%202026">contactarme por correo electrónico</a>.</p>
+            </form>
+            <p class="form-status" role="status" aria-live="polite"></p>
+          </div>
+        </article>
+
+        <article class="meeting-card costa-card">
+          <p class="meeting-label">Reuniones personales</p>
+          <h3>Costa del Sol<br><span>30 de octubre–2 de noviembre de 2026</span></h3>
+          <dl><dt>Zona</dt><dd>Sotogrande · Marbella · Fuengirola · Málaga</dd><dt>Formato</dt><dd>Café, almuerzo, cena o golf</dd></dl>
+          <p>Henrik Hallenborg estará en la Costa del Sol, desde Sotogrande hasta Marbella, Fuengirola y Málaga. Podemos reunirnos para tomar un café, almorzar o cenar, o combinar el encuentro con una partida de golf. Contacta con Henrik para acordar el formato que mejor te convenga.</p>
+          <button class="meeting-button dark" type="button" data-toggle="costa-signup" data-meeting="Costa del Sol · 30 de octubre–2 de noviembre de 2026" aria-controls="costa-signup" aria-expanded="false">Contactar con Henrik</button>
+          <div class="signup-panel light-panel" id="costa-signup">
+            <h4>Contacta con Henrik</h4>
+            <form class="ajax-form" action="https://forms.digitalplat.org/f/EP3yIL1knn5EVZLpL3YDQx9U4jDUoMErh3QC0zc9" method="post" data-success="¡Gracias! Hemos recibido tu solicitud. Responderemos lo antes posible.">
+              <div class="form-grid"><div class="field full"><label for="costa-name">Nombre</label><input id="costa-name" name="name" type="text" autocomplete="name" required></div><div class="field"><label for="costa-email">Correo electrónico</label><input id="costa-email" name="email" type="email" autocomplete="email" required></div><div class="field"><label for="costa-phone">Número de teléfono</label><input id="costa-phone" name="phone" type="tel" autocomplete="tel"></div><div class="field full"><label for="costa-message">Mensaje</label><textarea id="costa-message" name="message" placeholder="Indica dónde y cómo prefieres reunirte."></textarea></div></div>
+              <input type="hidden" name="source" value="Babylon Capital – Costa del Sol 2026">
+              <label class="form-consent"><input name="consent" type="checkbox" value="on" required><span>Autorizo a Babylon Capital a tratar mis datos para ponerse en contacto conmigo sobre una reunión. Consulta la <a href="../politica-de-privacidad/">política de privacidad</a>.</span></label>
+              <button class="form-submit" type="submit">Enviar solicitud</button>
+              <p class="form-help">También puedes <a href="mailto:henrik.hallenborg@borstjanaren.se?subject=Personligt%20m%C3%B6te%20Costa%20del%20Sol%202026">contactarme por correo electrónico</a>.</p>
+            </form>
+            <p class="form-status" role="status" aria-live="polite"></p>
+          </div>
+        </article>
+
+        <article class="meeting-card costa-card">
+          <p class="meeting-label">Reuniones personales</p>
+          <h3>Londres<br><span>9–12 de noviembre de 2026</span></h3>
+          <dl><dt>Zona</dt><dd>Londres</dd><dt>Formato</dt><dd>Reuniones personales con cita previa en el centro de Londres</dd></dl>
+          <p>Durante cuatro días, del 9 al 12 de noviembre, Henrik Hallenborg se reunirá personalmente con clientes, con cita previa, en el centro de Londres. Contacta con Henrik para reservar una hora y conocer mejor Managed Futures, Babylon Capital y el programa CTA Arkad.</p>
+          <button class="meeting-button dark" type="button" data-toggle="london-signup" data-meeting="Londres · 9–12 de noviembre de 2026" aria-controls="london-signup" aria-expanded="false">Contactar con Henrik</button>
+        <div class="signup-panel light-panel" id="london-signup">
+            <h4>Contacta con Henrik</h4>
+            <form class="ajax-form" action="https://forms.digitalplat.org/f/EP3yIL1knn5EVZLpL3YDQx9U4jDUoMErh3QC0zc9" method="post" data-success="¡Gracias! Hemos recibido tu solicitud. Responderemos lo antes posible.">
+              <div class="form-grid"><div class="field full"><label for="london-name">Nombre</label><input id="london-name" name="name" type="text" autocomplete="name" required></div><div class="field"><label for="london-email">Correo electrónico</label><input id="london-email" name="email" type="email" autocomplete="email" required></div><div class="field"><label for="london-phone">Número de teléfono</label><input id="london-phone" name="phone" type="tel" autocomplete="tel"></div><div class="field full"><label for="london-message">Mensaje</label><textarea id="london-message" name="message" placeholder="Indica dónde y cómo prefieres reunirte."></textarea></div></div>
+              <input type="hidden" name="source" value="Babylon Capital – Londres · 9–12 de noviembre de 2026">
+              <label class="form-consent"><input name="consent" type="checkbox" value="on" required><span>Autorizo a Babylon Capital a tratar mis datos para ponerse en contacto conmigo sobre una reunión. Consulta la <a href="../politica-de-privacidad/">política de privacidad</a>.</span></label>
+              <button class="form-submit" type="submit">Enviar solicitud</button>
+              <p class="form-help">También puedes <a href="mailto:henrik.hallenborg@borstjanaren.se?subject=Personligt%20m%C3%B6te%20Londres%20%C2%B7%209%E2%80%9312%20de%20noviembre%20de%202026">contactarme por correo electrónico</a>.</p>
+            </form>
+            <p class="form-status" role="status" aria-live="polite"></p>
+          </div>
+        </article>
+
+        <article class="meeting-card featured">
+          <p class="meeting-label">Próximo encuentro con inversores</p>
+          <h3>Uppsala<br><span>17 de noviembre de 2026</span></h3>
+          <dl><dt>Lugar</dt><dd>Rosendals Multihus – Hörsalen, Uppsala</dd><dt>Hora</dt><dd>17.30</dd><dt>Contenido</dt><dd>Babylon Capital y Managed Futures</dd></dl>
+          <p>Te invitamos a una presentación de Babylon Capital y su enfoque en Managed Futures y el seguimiento de tendencias basado en reglas en los mercados financieros globales. Conoce a Henrik Hallenborg y Fredrik Swahn y plantea tus preguntas sobre la sociedad, la estrategia y la gestión de capital. Es necesaria la inscripción previa.</p>
+          <button class="meeting-button" type="button" data-toggle="uppsala-signup" aria-expanded="false">Reserva tu plaza</button>
+          <div class="signup-panel" id="uppsala-signup">
+            <h4>Inscripción</h4>
+            <form class="ajax-form" action="https://forms.digitalplat.org/f/udbfbD5cTLBFJ75uENdn1wNmgNCNIAO7x6ow0N0u" method="post" data-success="¡Gracias! Hemos recibido tu inscripción para el encuentro de Uppsala.">
+              <div class="form-grid"><div class="field full"><label for="uppsala-name">Nombre</label><input id="uppsala-name" name="name" type="text" autocomplete="name" required></div><div class="field"><label for="uppsala-email">Correo electrónico</label><input id="uppsala-email" name="email" type="email" autocomplete="email" required></div><div class="field"><label for="uppsala-phone">Número de teléfono</label><input id="uppsala-phone" name="phone" type="tel" autocomplete="tel"></div><div class="field full"><label for="uppsala-guests">Número de asistentes</label><select id="uppsala-guests" name="guests" required><option value="1">1 asistente</option><option value="2">2 asistente</option><option value="3">3 asistente</option><option value="4">4 asistente</option></select></div></div>
+              <input type="hidden" name="source" value="Babylon Capital – Uppsala 17 de noviembre de 2026">
+              <label class="form-consent"><input name="consent" type="checkbox" value="on" required><span>Autorizo a Babylon Capital a tratar mis datos para gestionar la inscripción. Consulta la <a href="../politica-de-privacidad/">política de privacidad</a>.</span></label>
+              <button class="form-submit" type="submit">Enviar inscripción</button>
+              <p class="form-help">¿Problemas con el formulario? <a href="mailto:henrik.hallenborg@borstjanaren.se?subject=Anm%C3%A4lan%20till%20investerartr%C3%A4ff%2017%20november%202026">Inscribirse por correo electrónico</a>.</p>
+            </form>
+            <p class="form-status" role="status" aria-live="polite"></p>
+          </div>
+        <aside class="stockholm-note"><h4>Estocolmo · 17–18 de noviembre</h4><p>También puedes reunirte personalmente con Henrik Hallenborg en Estocolmo los días 17 y 18 de noviembre. Contacta con Henrik para concertar una cita.</p><button class="meeting-button" type="button" data-toggle="uppsala-signup" aria-controls="uppsala-signup" aria-expanded="false">Contactar con Henrik</button></aside>
+        </article>
+      </div>
+    </section>
 
     <section class="letters" id="investerarbrev"><div class="wrap">
       <div class="letters-head"><div><div class="eyebrow">Archivo</div><h2>Cartas a inversores</h2></div><p>Lee sobre la gestión, la actividad y los acontecimientos más importantes del periodo.</p></div>
@@ -64,7 +140,7 @@
 
   <footer class="footer unified-footer site-babylon"><div class="footer-shell"><div class="footer-top"><div><h3>Babylon Capital AB</h3><p>Mercados alternativos y gestión sistemática.</p></div><div class="office"><h3>Madrid</h3><address>Calle Nalón 8<br>28670 Villaviciosa de Odón, Madrid<br><a href="tel:+34638008073">+34 638 008 073</a></address></div><div class="office"><h3>Uppsala</h3><address>Tryffelvägen 4K<br>756 46 Uppsala<br><a href="tel:+46702341188">+46 70 234 11 88</a></address></div></div><div class="footer-bottom"><div class="footer-links"><a href="../politica-de-privacidad/">Política de privacidad</a><a href="../informacion-de-riesgo/">Información de riesgo</a><a href="../#kontakt">Contacto</a></div><div class="footer-meta"><a class="footer-x-link" href="https://x.com/borstjanaren" target="_blank" rel="noopener noreferrer" aria-label="Sigue a Börstjänaren en X"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24h-6.657l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231 5.45-6.231Zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77Z"/></svg><span>Síguenos en X</span></a><span>© 2026 Babylon Capital AB</span></div></div></div></footer>
   
-<script src="../../js/nyheter-es.js"></script>
+<script src="../../js/nyheter-es.js?v=20261005-meetings"></script>
 <script src="../../js/analytics-es.js"></script>
 </body>
 </html>

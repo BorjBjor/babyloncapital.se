@@ -1,12 +1,75 @@
 const button=document.querySelector('.menu-button'),nav=document.querySelector('.nav');button.addEventListener('click',()=>{const open=nav.classList.toggle('open');button.setAttribute('aria-expanded',open)});
     const revealSignup=(panel,input)=>requestAnimationFrame(()=>{panel.scrollIntoView({behavior:'smooth',block:'start'});setTimeout(()=>input.focus({preventScroll:true}),450)});
-    const signupToggle=document.querySelector('#signup-toggle'),signup=document.querySelector('#uppsala-signup');signupToggle.addEventListener('click',()=>{const open=signup.classList.toggle('open');signupToggle.setAttribute('aria-expanded',open);signupToggle.textContent=open?'Stäng anmälan':'Anmälan här';if(open)revealSignup(signup,document.querySelector('#signup-name'))});
-    const uppsalaForm=document.querySelector('#uppsala-form'),signupStatus=document.querySelector('#signup-status');uppsalaForm.addEventListener('submit',async event=>{event.preventDefault();const submit=uppsalaForm.querySelector('.signup-submit');submit.disabled=true;submit.textContent='Skickar…';signupStatus.className='signup-status';try{const response=await fetch(uppsalaForm.action,{method:'POST',body:new FormData(uppsalaForm),headers:{Accept:'application/json'}});const result=await response.json();if(!response.ok||!result.ok)throw new Error(result.error||'Anmälan kunde inte registreras.');uppsalaForm.reset();uppsalaForm.hidden=true;signupStatus.textContent='Tack för din anmälan. Vi återkommer med praktisk information inför träffen.';signupStatus.className='signup-status show'}catch(error){signupStatus.textContent='Något gick fel. Kontrollera uppgifterna och försök igen, eller använd e-postlänken.';signupStatus.className='signup-status show error';submit.disabled=false;submit.textContent='Skicka anmälan'}});
-    const costaToggle=document.querySelector('#costa-toggle'),costaSignup=document.querySelector('#costa-signup');costaToggle.addEventListener('click',()=>{const open=costaSignup.classList.toggle('open');costaToggle.setAttribute('aria-expanded',open);costaToggle.textContent=open?'Stäng formuläret':'Begär personlig inbjudan';if(open)revealSignup(costaSignup,document.querySelector('#costa-name'))});
-    const costaForm=document.querySelector('#costa-form'),costaStatus=document.querySelector('#costa-status');costaForm.addEventListener('submit',async event=>{event.preventDefault();const submit=costaForm.querySelector('.signup-submit');submit.disabled=true;submit.textContent='Skickar…';costaStatus.className='signup-status';try{const response=await fetch(costaForm.action,{method:'POST',body:new FormData(costaForm),headers:{Accept:'application/json'}});const result=await response.json();if(!response.ok||!result.ok)throw new Error(result.error||'Förfrågan kunde inte registreras.');costaForm.reset();costaForm.hidden=true;costaStatus.textContent='Tack för ditt intresse. Henrik Hallenborg återkommer för att diskutera ett personligt upplägg och en lämplig tid.';costaStatus.className='signup-status show'}catch(error){costaStatus.textContent='Något gick fel. Kontrollera uppgifterna och försök igen, eller använd e-postlänken.';costaStatus.className='signup-status show error';submit.disabled=false;submit.textContent='Skicka förfrågan'}});
     const investorVideo=document.querySelector('#investor-video'),videoPlay=document.querySelector('#video-play');let videoPlayTracked=false;videoPlay.addEventListener('click',()=>investorVideo.play());investorVideo.addEventListener('play',()=>{videoPlay.classList.add('hidden');if(!videoPlayTracked&&typeof gtag==='function'){gtag('event','investerarmote_play',{video_title:'Investerarmöte nr 1',video_file:'Investerarmote_Nr1.mp4'});videoPlayTracked=true}});investorVideo.addEventListener('pause',()=>{if(investorVideo.currentTime===0)videoPlay.classList.remove('hidden')});
     const letterToggle=document.querySelector('#letter-toggle'),letterSignup=document.querySelector('#letter-signup');letterToggle.addEventListener('click',()=>{const open=letterSignup.classList.toggle('open');letterToggle.setAttribute('aria-expanded',open);letterToggle.textContent=open?'Stäng formuläret':'Ja tack, skicka mig investerarbrevet';if(open)document.querySelector('#letter-name').focus()});
     const letterForm=document.querySelector('#letter-form'),letterStatus=document.querySelector('#letter-status');letterForm.addEventListener('submit',async event=>{event.preventDefault();const submit=letterForm.querySelector('.signup-submit');submit.disabled=true;submit.textContent='Registrerar…';letterStatus.className='signup-status';try{const response=await fetch(letterForm.action,{method:'POST',body:new FormData(letterForm),headers:{Accept:'application/json'}});const result=await response.json();if(!response.ok||!result.ok)throw new Error(result.error||'Registreringen kunde inte genomföras.');letterForm.reset();letterForm.hidden=true;letterStatus.textContent='Tack! Du är nu registrerad för kommande investerarbrev.';letterStatus.className='signup-status show'}catch(error){letterStatus.textContent='Något gick fel. Kontrollera uppgifterna och försök igen.';letterStatus.className='signup-status show error';submit.disabled=false;submit.textContent='Registrera mig'}});
 
-    document.querySelectorAll("[data-meeting]").forEach(trigger=>trigger.addEventListener("click",()=>{const city=trigger.dataset.meeting;document.querySelector("#meeting-location").value=city;const message=document.querySelector("#costa-message");message.value=city+" — "+message.value.replace(/^(Costa del Sol|Torrevieja|London|Londres) — /,"");if(!costaSignup.classList.contains("open"))costaToggle.click();else revealSignup(costaSignup,document.querySelector("#costa-name"));}));
-    costaToggle.addEventListener("click",event=>{if(event.isTrusted){document.querySelector("#meeting-location").value="Costa del Sol";const message=document.querySelector("#costa-message");message.value=message.value.replace(/^(Costa del Sol|Torrevieja|London|Londres) — /,"");}});
+document.querySelectorAll('[data-toggle]').forEach((button) => {
+  button.addEventListener('click', () => {
+    const panel = document.getElementById(button.dataset.toggle);
+    const meeting = button.dataset.meeting;
+    const open = !panel.classList.contains('is-open');
+    panel.classList.toggle('is-open', open);
+    if (meeting) {
+      panel.querySelector('[name="source"]').value = `Babylon Capital – ${meeting}`;
+      const message = panel.querySelector('[name="message"]');
+      message.value = meeting + ' — ' + message.value.replace(/^[^\n]* — /, '');
+      const emailLink = panel.querySelector('.form-help a');
+      emailLink.href = 'mailto:henrik.hallenborg@borstjanaren.se?subject=' + encodeURIComponent('Babylon Capital – ' + meeting);
+    }
+    document.querySelectorAll(`[data-toggle="${panel.id}"]`).forEach(trigger => trigger.setAttribute('aria-expanded', String(open)));
+    button.setAttribute('aria-expanded', String(open));
+    if (open) {
+      document.querySelectorAll('.signup-panel.is-open').forEach((otherPanel) => {
+        if (otherPanel === panel) return;
+        otherPanel.classList.remove('is-open');
+        document.querySelectorAll(`[data-toggle="${otherPanel.id}"]`).forEach(trigger => trigger.setAttribute('aria-expanded', 'false'));
+      });
+
+      window.requestAnimationFrame(() => {
+        panel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        panel.querySelector('input')?.focus({ preventScroll: true });
+      });
+    }
+  });
+});
+
+const newsLanguage = document.documentElement.lang || 'sv';
+const newsMessages = {
+  sv: { sending: 'Skickar…', sendError: 'Formuläret kunde inte skickas.', generalError: 'Något gick fel. Kontrollera uppgifterna och försök igen, eller använd e-postlänken.', retry: 'Försök igen', greeting: 'Hej Henrik', request: 'Ja tack, skicka mig investerarbrevet.', name: 'Namn', email: 'E-post', phone: 'Telefon', message: 'Meddelande', missing: 'Ej angivet' },
+  en: { sending: 'Sending…', sendError: 'The form could not be submitted.', generalError: 'Something went wrong. Check your details and try again, or use the email link.', retry: 'Try again', greeting: 'Hello Henrik', request: 'Yes please, send me the investor letter.', name: 'Name', email: 'Email', phone: 'Phone', message: 'Message', missing: 'Not provided' },
+  es: { sending: 'Enviando…', sendError: 'No se pudo enviar el formulario.', generalError: 'Algo salió mal. Revisa los datos e inténtalo de nuevo o utiliza el enlace de correo electrónico.', retry: 'Intentar de nuevo', greeting: 'Hola Henrik', request: 'Sí, envíame la carta al inversor.', name: 'Nombre', email: 'Correo electrónico', phone: 'Teléfono', message: 'Mensaje', missing: 'No indicado' }
+};
+const newsText = newsMessages[newsLanguage] || newsMessages.sv;
+
+document.querySelectorAll('.ajax-form').forEach((form) => {
+  const status = form.parentElement.querySelector('.form-status');
+  form.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    const submit = form.querySelector('.form-submit');
+    submit.disabled = true;
+    submit.textContent = newsText.sending;
+    status.className = 'form-status';
+
+    try {
+      const response = await fetch(form.action, { method: 'POST', body: new FormData(form), headers: { Accept: 'application/json' } });
+      const result = await response.json().catch(() => ({}));
+      if (!response.ok || result.ok === false) throw new Error(result.error || newsText.sendError);
+      form.reset();
+      form.hidden = true;
+      form.setAttribute('aria-hidden', 'true');
+      form.style.setProperty('display', 'none', 'important');
+      status.textContent = form.dataset.success;
+      status.className = 'form-status is-visible';
+      status.setAttribute('tabindex', '-1');
+      status.focus({ preventScroll: true });
+      status.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    } catch (error) {
+      status.textContent = newsText.generalError;
+      status.className = 'form-status is-visible is-error';
+      submit.disabled = false;
+      submit.textContent = newsText.retry;
+    }
+  });
+});
+
