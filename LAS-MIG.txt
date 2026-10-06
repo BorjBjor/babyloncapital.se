@@ -1,0 +1,11 @@
+BABYLON CAPITAL – UTAN BOKEN
+
+1. Ladda upp filerna i denna zip till GitHub med samma mappstruktur. Ersätt motsvarande befintliga filer.
+2. Ta även bort följande tre bok-PDF:er från GitHub (de kan annars öppnas via direktlänk):
+- media/bok/managed-futures-follow-the-crowd-from-a-distance.v1.pdf
+- media/bok/managed-futures-sigue-al-rebano-desde-la-distancia.v1.pdf
+- media/bok/managed-futures-folj-flocken-pa-avstand.v1.pdf
+
+Bokfliken och bokkorten är borttagna på svenska, engelska och spanska. Boksidorna skickar besökaren till respektive startsida och är märkta noindex. Sitemap innehåller inte längre boksidor.
+
+ÅTERSTÄLLNING: Spara originalarkivet babyloncapital.se-main-med-boken.zip. När boken är klar återställer du motsvarande filer från originalarkivet samt de tre bok-PDF:erna. Övriga delar av sajten påverkas inte.
