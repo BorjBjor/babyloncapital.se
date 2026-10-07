@@ -1,0 +1,1479 @@
+1
+00:00:01,900 --> 00:00:09,420
+Bienvenidos a nuestra segunda reunión
+de inversores con Babylon Capital.
+
+2
+00:00:10,740 --> 00:00:16,660
+Soy Henrik Hallenborg y me acompaña
+nuestro director general, Fredrik.
+
+3
+00:00:17,620 --> 00:00:19,860
+Buenas noches, Fredrik. Buenas noches.
+
+4
+00:00:22,460 --> 00:00:27,920
+Esta noche veremos cómo han evolucionado
+las cosas desde la última reunión.
+
+5
+00:00:29,660 --> 00:00:35,360
+Podéis escribir vuestras preguntas
+en el recuadro de preguntas
+
+6
+00:00:35,560 --> 00:00:38,860
+a medida que se os ocurran.
+
+7
+00:00:39,660 --> 00:00:41,320
+También habrá un turno de preguntas al final.
+
+8
+00:00:42,640 --> 00:00:46,380
+Pero podéis enviarlas antes.
+
+9
+00:00:47,180 --> 00:00:48,940
+Empecemos con...
+
+10
+00:00:56,450 --> 00:00:58,809
+Ya hemos recibido la primera pregunta.
+
+11
+00:00:58,810 --> 00:01:03,110
+Alguien dice que no oye nada.
+
+12
+00:01:04,770 --> 00:01:05,770
+Sería útil
+
+13
+00:01:06,850 --> 00:01:10,290
+que confirmarais si podéis oírnos.
+
+14
+00:01:10,450 --> 00:01:14,250
+Si no, puede que el problema
+esté en vuestro equipo.
+
+15
+00:01:15,590 --> 00:01:20,730
+Te oigo, Fredrik, así que
+supongo que funciona para todos.
+
+16
+00:01:21,590 --> 00:01:23,250
+Sí, yo también te oigo bien.
+
+17
+00:01:24,210 --> 00:01:26,790
+Daniel dice que nos oye.
+
+18
+00:01:59,510 --> 00:02:03,109
+Esta nueva plataforma tiene una función nueva.
+
+19
+00:02:03,110 --> 00:02:07,510
+Puedo responder en privado
+a quienes envían preguntas.
+
+20
+00:02:07,670 --> 00:02:08,710
+Creo que es privado.
+
+21
+00:02:10,050 --> 00:02:12,310
+Pero nos oís, así que continuemos.
+
+22
+00:02:13,150 --> 00:02:17,989
+Empecemos con Börstjänarfolket.
+
+23
+00:02:17,990 --> 00:02:21,650
+Tenemos unas cifras alentadoras.
+
+24
+00:02:24,580 --> 00:02:27,719
+Sigue muy correlacionado
+con las criptomonedas.
+
+25
+00:02:27,720 --> 00:02:30,020
+Las criptomonedas han subido con fuerza,
+
+26
+00:02:31,420 --> 00:02:39,680
+lo que impulsó a Börstjänarfolket
+casi un 21 % en septiembre.
+
+27
+00:02:41,580 --> 00:02:49,040
+Bittensor sigue siendo el
+principal motor de esa cartera.
+
+28
+00:02:56,790 --> 00:03:00,910
+Se acerca el inicio de las
+operaciones de Babylon Capital.
+
+29
+00:03:01,510 --> 00:03:03,830
+¿En qué punto estamos, Fredrik?
+
+30
+00:03:06,520 --> 00:03:08,720
+Sí, creo que es tal como has escrito aquí.
+
+31
+00:03:09,860 --> 00:03:11,580
+Están llegando las últimas
+aportaciones de capital.
+
+32
+00:03:12,460 --> 00:03:16,820
+Un inversor se retrasó un
+poco en transferir su capital,
+
+33
+00:03:17,020 --> 00:03:21,100
+así que estamos ultimando los detalles.
+
+34
+00:03:23,340 --> 00:03:29,020
+Como dices, por fin hemos
+recibido la aprobación de Nordea.
+
+35
+00:03:29,200 --> 00:03:30,760
+Así que vamos por buen camino.
+
+36
+00:03:30,900 --> 00:03:34,140
+Ya tenemos las cuentas en dólares y euros.
+
+37
+00:03:36,520 --> 00:03:43,720
+También queda un pequeño paso con StoneX.
+
+38
+00:03:43,900 --> 00:03:47,799
+Ha habido entre 10 y 15
+intercambios de correspondencia.
+
+39
+00:03:47,800 --> 00:03:52,560
+Han hecho preguntas y
+pedido más documentación.
+
+40
+00:03:52,680 --> 00:03:58,760
+Pero ahora parecen estar muy
+cerca de dar el visto bueno.
+
+41
+00:03:59,980 --> 00:04:02,760
+Sí, ha habido bastantes preguntas.
+
+42
+00:04:03,820 --> 00:04:10,160
+Esta noche explicaremos quién es StoneX.
+
+43
+00:04:10,620 --> 00:04:12,020
+Es nuestro FCM.
+
+44
+00:04:13,620 --> 00:04:15,040
+También explicaremos qué significa.
+
+45
+00:04:17,140 --> 00:04:19,880
+Hemos recibido una pregunta
+por correo electrónico.
+
+46
+00:04:22,280 --> 00:04:28,040
+¿Cómo aparecerá mi inversión en Babylon
+al transferirse a mi cuenta de valores?
+
+47
+00:04:30,120 --> 00:04:32,560
+¿Y ocurrirá durante octubre?
+
+48
+00:04:38,660 --> 00:04:42,020
+Sí, creo que debería ser así.
+
+49
+00:04:42,120 --> 00:04:43,319
+Pero no puedo garantizarlo.
+
+50
+00:04:43,320 --> 00:04:51,299
+Quedan algunos pasos para que
+
+51
+00:04:51,300 --> 00:04:54,440
+todo esté listo en Kaptena.
+
+52
+00:04:54,520 --> 00:04:57,980
+También falta la aprobación final
+del Registro Mercantil sueco.
+
+53
+00:04:58,300 --> 00:05:04,040
+Creo que debería estar
+listo a finales de octubre.
+
+54
+00:05:05,060 --> 00:05:08,559
+Pero no podemos garantizarlo con certeza.
+
+55
+00:05:08,560 --> 00:05:13,020
+No necesitamos esperar a
+eso para empezar a operar.
+
+56
+00:05:19,350 --> 00:05:21,950
+Luego está la próxima oportunidad de invertir.
+
+57
+00:05:22,450 --> 00:05:24,770
+Lo mencionamos brevemente el mes pasado.
+
+58
+00:05:27,130 --> 00:05:30,130
+Todavía no sé si será el 1 de noviembre.
+
+59
+00:05:30,790 --> 00:05:32,700
+Pero sé que hay personas interesadas en
+
+60
+00:05:32,701 --> 00:05:37,929
+aumentar su inversión en Babylon Capital.
+
+61
+00:05:37,930 --> 00:05:43,730
+Habrá oportunidades para hacerlo.
+
+62
+00:05:45,190 --> 00:05:52,510
+Si queréis aumentar vuestra inversión,
+contactad con nosotros ahora,
+
+63
+00:05:52,710 --> 00:05:55,510
+y os añadiremos a la lista.
+
+64
+00:05:56,490 --> 00:06:00,990
+Los inversores actuales pueden ampliar su
+inversión y también pueden entrar nuevos.
+
+65
+00:06:05,170 --> 00:06:06,700
+Ahora...
+
+66
+00:06:13,520 --> 00:06:20,590
+pasamos a la lección de esta noche.
+
+67
+00:06:20,650 --> 00:06:28,750
+La última vez dijimos que os ayudaríamos
+a conocer Managed Futures como inversores
+
+68
+00:06:31,710 --> 00:06:34,810
+y este tipo de inversión.
+
+69
+00:06:36,830 --> 00:06:41,567
+Es necesario entender cómo puede
+
+70
+00:06:41,568 --> 00:06:46,010
+fluctuar la inversión y qué cabe esperar.
+
+71
+00:06:46,990 --> 00:06:51,650
+Pero también es importante
+entender cómo encaja todo.
+
+72
+00:06:52,370 --> 00:07:00,550
+La estructura puede parecer
+
+73
+00:07:00,551 --> 00:07:02,340
+un poco complicada.
+
+74
+00:07:03,340 --> 00:07:06,100
+En realidad, todo es muy sencillo.
+
+75
+00:07:08,200 --> 00:07:15,740
+Babylon Capital es una sociedad anónima
+sueca en la que compráis acciones.
+
+76
+00:07:16,000 --> 00:07:21,881
+Funciona como un commodity
+pool, en el que los inversores
+
+77
+00:07:21,882 --> 00:07:28,700
+son accionistas de la sociedad.
+
+78
+00:07:33,080 --> 00:07:37,740
+El capital pertenece a la sociedad.
+
+79
+00:07:39,540 --> 00:07:43,589
+Babylon Capital contrata entonces
+
+80
+00:07:43,590 --> 00:07:51,869
+el programa Hallenborg CTA,
+
+81
+00:07:51,870 --> 00:07:56,700
+que gestiona la estrategia, el riesgo
+y las decisiones de negociación.
+
+82
+00:07:57,700 --> 00:08:03,890
+Yo soy quien dirige este programa CTA.
+
+83
+00:08:07,010 --> 00:08:11,270
+Contamos con la ayuda de GFF Brokers.
+
+84
+00:08:16,030 --> 00:08:20,750
+GFF Brokers es una empresa
+pequeña de Estados Unidos.
+
+85
+00:08:21,430 --> 00:08:28,770
+Su tamaño nos beneficia porque
+recibimos ayuda y asistencia.
+
+86
+00:08:30,050 --> 00:08:34,010
+Están muy comprometidos con atendernos.
+
+87
+00:08:35,190 --> 00:08:37,810
+Trabajo con GFF
+
+88
+00:08:40,730 --> 00:08:43,669
+desde que abrí mi cuenta, creo que en 2001,
+
+89
+00:08:43,670 --> 00:08:51,530
+antes de que los actuales propietarios
+fueran dueños o trabajaran allí.
+
+90
+00:08:52,450 --> 00:08:55,470
+Tenemos una excelente relación con ellos.
+
+91
+00:08:59,100 --> 00:09:03,819
+Gestionan la relación con StoneX, nuestro FCM.
+
+92
+00:09:03,820 --> 00:09:10,600
+Allí se gestionan la compensación, el margen
+y la protección de los fondos de clientes.
+
+93
+00:09:11,060 --> 00:09:14,159
+StoneX custodia el capital.
+
+94
+00:09:14,160 --> 00:09:22,539
+Podéis pensar en GFF Brokers como quien presta
+
+95
+00:09:22,540 --> 00:09:27,386
+la atención personalizada que las grandes
+
+96
+00:09:27,387 --> 00:09:32,940
+empresas pueden perder por su tamaño.
+
+97
+00:09:33,320 --> 00:09:40,620
+StoneX figura en la lista Fortune
+500 y es una organización muy grande.
+
+98
+00:09:41,780 --> 00:09:46,540
+GFF Brokers nos ayuda a
+que todo funcione bien.
+
+99
+00:09:49,800 --> 00:09:55,620
+Alguien responde cuando llamamos
+y nuestro negocio les importa.
+
+100
+00:09:57,480 --> 00:10:02,620
+Accedemos a los mercados de
+futuros a través de StoneX.
+
+101
+00:10:05,320 --> 00:10:08,753
+Hoy esto se hace electrónicamente.
+
+102
+00:10:08,754 --> 00:10:15,740
+Todas las operaciones se realizan en
+plataformas que gestionan nuestras órdenes.
+
+103
+00:10:15,920 --> 00:10:19,360
+Ya no tenemos que dar las órdenes por teléfono
+
+104
+00:10:20,680 --> 00:10:25,420
+para que un auxiliar del
+parqué las lleve a un operador.
+
+105
+00:10:26,760 --> 00:10:31,620
+Ese era el sistema antiguo.
+Hoy todo es electrónico.
+
+106
+00:10:32,460 --> 00:10:35,680
+Ese cambio llegó después de la COVID.
+
+107
+00:10:36,440 --> 00:10:40,659
+Cerraron el parqué durante la
+COVID y operaron electrónicamente,
+
+108
+00:10:40,660 --> 00:10:42,220
+y el parqué nunca volvió a abrir.
+
+109
+00:10:47,400 --> 00:10:49,964
+Un punto muy importante es
+
+110
+00:10:49,965 --> 00:10:57,080
+que el capital pertenece a Babylon Capital.
+
+111
+00:10:59,780 --> 00:11:03,400
+Como CTA, no controlamos el capital.
+
+112
+00:11:04,520 --> 00:11:07,820
+GFF tampoco lo controla.
+
+113
+00:11:08,520 --> 00:11:12,579
+Como veremos enseguida,
+StoneX tampoco tiene control
+
+114
+00:11:12,580 --> 00:11:20,680
+directo sobre el capital.
+
+115
+00:11:21,320 --> 00:11:26,460
+El capital está en StoneX, en una cuenta
+segregada que explicaremos enseguida.
+
+116
+00:11:33,320 --> 00:11:36,700
+En pocas palabras, soy responsable
+de gestionar las inversiones.
+
+117
+00:11:37,440 --> 00:11:45,980
+Lo hago bajo un mandato para
+gestionar la cuenta de Babylon.
+
+118
+00:11:50,850 --> 00:11:55,429
+Mi función no tiene nada que
+ver con custodiar el capital.
+
+119
+00:11:55,430 --> 00:12:00,270
+No lo tengo a mi nombre
+ni puedo retirar fondos.
+
+120
+00:12:01,050 --> 00:12:05,590
+No puedo tocar el capital.
+Pertenece a Babylon.
+
+121
+00:12:08,120 --> 00:12:13,700
+GFF y StoneX proporcionan la infraestructura.
+
+122
+00:12:23,030 --> 00:12:26,929
+StoneX es nuestro FCM.
+
+123
+00:12:26,930 --> 00:12:30,930
+FCM significa Futures Commission Merchant.
+
+124
+00:12:39,690 --> 00:12:47,070
+Ahí se desarrolla toda la
+negociación de futuros.
+
+125
+00:12:47,210 --> 00:12:55,250
+Mantienen todas las cuentas de
+clientes y ajustan el margen.
+
+126
+00:12:56,390 --> 00:13:01,250
+El margen es el capital
+que tenéis en la cuenta.
+
+127
+00:13:02,690 --> 00:13:10,970
+Un futuro es un contrato de entrega
+futura con el precio acordado hoy.
+
+128
+00:13:13,250 --> 00:13:20,510
+Podríais acordar comprar 100.000
+dólares de petróleo dentro de un año.
+
+129
+00:13:21,420 --> 00:13:24,350
+Pero no necesitáis aportar
+100.000 dólares hoy.
+
+130
+00:13:24,690 --> 00:13:28,790
+Aportáis un margen, que
+varía según el mercado.
+
+131
+00:13:29,950 --> 00:13:31,890
+Podría ser un 10 %.
+
+132
+00:13:32,070 --> 00:13:39,970
+Solo necesitáis 10.000 dólares para
+controlar una posición de 100.000.
+
+133
+00:13:40,890 --> 00:13:44,271
+Cuando llega la entrega, necesitáis
+
+134
+00:13:44,272 --> 00:13:49,789
+los 100.000 dólares para pagarla.
+
+135
+00:13:49,790 --> 00:13:53,630
+Pero, como especuladores,
+nunca llegamos a ese punto.
+
+136
+00:13:54,230 --> 00:13:59,708
+Operamos con futuros para
+especular, buscando aprovechar
+
+137
+00:13:59,709 --> 00:14:06,790
+la volatilidad y la tendencia
+del mercado a subir o bajar.
+
+138
+00:14:08,850 --> 00:14:15,390
+Todas las posiciones se cierran
+antes de la entrega física.
+
+139
+00:14:17,310 --> 00:14:24,325
+La compensación es otra parte importante:
+las órdenes de compra se casan
+
+140
+00:14:24,326 --> 00:14:31,709
+con las de venta y alguien
+garantiza el sistema.
+
+141
+00:14:31,710 --> 00:14:36,609
+Si compro petróleo para
+
+142
+00:14:36,610 --> 00:14:42,623
+entrega dentro de un año y la
+
+143
+00:14:42,624 --> 00:14:50,825
+contraparte tiene dificultades
+para cumplir el contrato,
+
+144
+00:14:50,826 --> 00:14:58,629
+otras partes, como un FCM,
+respaldan la operación.
+
+145
+00:14:58,630 --> 00:15:04,449
+Así, no hay riesgo de contraparte
+en el futuro si alguien
+
+146
+00:15:04,450 --> 00:15:11,530
+cambia de opinión o quiebra. La
+operación se cumple igualmente.
+
+147
+00:15:11,930 --> 00:15:16,129
+Eso significa que hay muchos controles
+
+148
+00:15:16,130 --> 00:15:21,650
+para evitar que ocurra algo así.
+
+149
+00:15:22,650 --> 00:15:27,209
+El margen es especialmente
+importante. Si empieza a agotarse,
+
+150
+00:15:27,210 --> 00:15:32,530
+el FCM puede cerrar la posición
+si no aportáis más capital.
+
+151
+00:15:37,350 --> 00:15:46,064
+Los FCM deben cumplir requisitos estrictos
+e informar sobre los fondos de clientes,
+
+152
+00:15:46,065 --> 00:15:51,589
+y las autoridades lo supervisan.
+
+153
+00:15:51,590 --> 00:15:52,820
+La
+
+154
+00:15:56,834 --> 00:16:05,109
+CFTC establece las normas,
+
+155
+00:16:05,110 --> 00:16:07,670
+y la NFA vela por su cumplimiento.
+
+156
+00:16:12,700 --> 00:16:21,005
+Tanto si invertís en Babylon
+como si usáis un programa CTA
+
+157
+00:16:21,006 --> 00:16:28,428
+o tenéis una cuenta de
+futuros a vuestro nombre,
+
+158
+00:16:28,429 --> 00:16:32,699
+la cuenta está segregada.
+
+159
+00:16:32,700 --> 00:16:40,071
+Es una cuenta de margen, no
+una cuenta bancaria, y está
+
+160
+00:16:40,072 --> 00:16:48,700
+separada de los fondos y
+activos propios del FCM.
+
+161
+00:16:49,720 --> 00:16:51,449
+Si el FCM
+
+162
+00:16:51,450 --> 00:16:55,490
+se vuelve insolvente,
+
+163
+00:17:00,170 --> 00:17:07,420
+esas cuentas siguen separadas de la empresa.
+
+164
+00:17:08,240 --> 00:17:15,637
+Ha habido quiebras de FCM en el pasado,
+
+165
+00:17:15,638 --> 00:17:21,959
+pero los clientes han recuperado
+sus fondos depositados.
+
+166
+00:17:21,960 --> 00:17:25,600
+Y no hay un límite para eso.
+
+167
+00:17:28,080 --> 00:17:36,439
+No se puede hablar de garantía, pero
+un FCM no puede utilizar esos fondos.
+
+168
+00:17:36,440 --> 00:17:44,920
+Están en dos cuentas especiales
+supervisadas por las autoridades.
+
+169
+00:17:59,310 --> 00:18:07,289
+Es una cuenta de margen que
+contiene la garantía aportada.
+
+170
+00:18:07,290 --> 00:18:14,424
+En nuestro caso, una cuenta
+de un millón de dólares
+
+171
+00:18:14,425 --> 00:18:20,290
+nos permitiría comprar mucho petróleo.
+
+172
+00:18:21,910 --> 00:18:26,888
+Pero nunca llegaremos a
+una situación en la que nos
+
+173
+00:18:26,889 --> 00:18:32,289
+pidan más dinero para cumplir el contrato.
+
+174
+00:18:32,290 --> 00:18:37,249
+No buscamos comprar el producto físico y solo
+
+175
+00:18:37,250 --> 00:18:45,520
+utilizamos una pequeña
+parte del capital total.
+
+176
+00:18:48,690 --> 00:18:52,768
+Solo en tendencias fuertes,
+cuando todo va muy bien,
+
+177
+00:18:52,769 --> 00:18:58,309
+utilizamos realmente nuestro margen.
+
+178
+00:18:58,310 --> 00:19:01,881
+La mayor parte del tiempo, el dinero está ahí
+
+179
+00:19:01,882 --> 00:19:08,489
+sin que realmente se utilice.
+
+180
+00:19:08,490 --> 00:19:16,333
+Es distinto de comprar una
+acción por 10.000 dólares y pagar
+
+181
+00:19:16,334 --> 00:19:24,310
+esa cantidad. Aquí el dinero
+sirve de garantía para que
+
+182
+00:19:24,311 --> 00:19:31,750
+la operación pueda cumplirse en el futuro.
+
+183
+00:19:36,260 --> 00:19:44,549
+Esto lo supervisa la CFTC,
+el equivalente estadounidense
+
+184
+00:19:44,550 --> 00:19:50,910
+de la Autoridad de Supervisión
+Financiera sueca para los derivados.
+
+185
+00:19:58,220 --> 00:20:01,794
+También está la NFA, una organización
+
+186
+00:20:01,795 --> 00:20:08,974
+autorreguladora que, en pocas palabras,
+
+187
+00:20:08,975 --> 00:20:13,550
+hace el trabajo de la CFTC.
+
+188
+00:20:18,710 --> 00:20:26,073
+La NFA es una organización
+servicial, orientada
+
+189
+00:20:26,074 --> 00:20:32,829
+a atender a los CTA, FCM y brokers,
+
+190
+00:20:32,830 --> 00:20:38,770
+y a asegurar que se cumplan
+las normas de la CFTC.
+
+191
+00:20:40,530 --> 00:20:46,262
+Estos controles
+
+192
+00:20:46,263 --> 00:20:54,024
+son muy estrictos.
+
+193
+00:20:54,025 --> 00:21:02,723
+Realizan auditorías periódicas
+
+194
+00:21:02,724 --> 00:21:05,063
+de toda la actividad,
+
+195
+00:21:05,064 --> 00:21:13,290
+con una frecuencia que
+depende del tipo de negocio.
+
+196
+00:21:16,210 --> 00:21:23,016
+Un FCM puede estar sometido a auditorías
+
+197
+00:21:23,017 --> 00:21:27,390
+y supervisión casi continuas.
+
+198
+00:21:28,810 --> 00:21:36,409
+Para un CTA, las auditorías
+no suelen estar programadas
+
+199
+00:21:36,410 --> 00:21:44,089
+y se realizan aproximadamente
+cada tres o cuatro años.
+
+200
+00:21:44,090 --> 00:21:52,569
+En un periodo de dos años tuve dos auditorías
+
+201
+00:21:52,570 --> 00:21:59,686
+consecutivas. Son exigentes:
+una auditoría dura cuatro meses,
+
+202
+00:21:59,687 --> 00:22:06,399
+incluida una visita de
+una semana a la oficina.
+
+203
+00:22:06,400 --> 00:22:15,117
+Cuando vivía en Dallas, cuatro personas
+se sentaron a mi lado de lunes a
+
+204
+00:22:15,118 --> 00:22:20,880
+viernes, revisando cuentas bancarias,
+cuentas de clientes y cada operación.
+
+205
+00:22:21,840 --> 00:22:29,560
+Luego regresaron a Chicago y continuaron
+la auditoría varios meses más.
+
+206
+00:22:32,560 --> 00:22:37,688
+Hay controles continuos,
+
+207
+00:22:37,689 --> 00:22:45,700
+que ofrecen cierta
+tranquilidad a los inversores.
+
+208
+00:22:45,840 --> 00:22:50,726
+Por supuesto, la rentabilidad
+no está garantizada. Esto
+
+209
+00:22:50,727 --> 00:22:57,919
+no protege frente a las
+pérdidas en el mercado.
+
+210
+00:22:57,920 --> 00:23:05,583
+Lo que ofrece este marco es protección para el
+
+211
+00:23:05,584 --> 00:23:14,283
+capital. Como CTA, también tenemos que
+
+212
+00:23:14,284 --> 00:23:23,020
+enviar nuestras huellas a la
+NFA para que las valide el FBI.
+
+213
+00:23:26,020 --> 00:23:29,540
+Eso puede aportar una tranquilidad adicional.
+
+214
+00:23:31,270 --> 00:23:38,870
+En resumen, los inversores compran
+acciones directamente en Babylon.
+
+215
+00:23:39,710 --> 00:23:48,168
+La sociedad mantiene el capital
+y Hallenborg CTA lo gestiona bajo
+
+216
+00:23:48,169 --> 00:23:53,600
+un mandato. Hay un documento informativo
+del programa CTA que utilizamos.
+
+217
+00:23:54,330 --> 00:23:58,450
+Si os interesa, podéis
+pedirnos una copia por correo.
+
+218
+00:23:59,450 --> 00:24:03,962
+GFF Brokers gestiona la relación,
+
+219
+00:24:03,963 --> 00:24:11,076
+y StoneX nos da acceso a
+los mercados de futuros
+
+220
+00:24:11,077 --> 00:24:17,710
+y garantiza nuestras posiciones
+frente a la contraparte.
+
+221
+00:24:20,800 --> 00:24:26,240
+Todo funciona bajo el marco
+regulador de la CFTC y la NFA.
+
+222
+00:24:36,570 --> 00:24:37,640
+He
+
+223
+00:24:41,752 --> 00:24:48,316
+escrito un pequeño libro sobre Managed Futures
+
+224
+00:24:48,317 --> 00:24:50,960
+que todavía no se ha publicado.
+
+225
+00:24:51,340 --> 00:24:59,548
+Está disponible en PDF. Si queréis leerlo
+
+226
+00:24:59,549 --> 00:25:05,279
+antes de su publicación,
+escribidme y os enviaré una copia.
+
+227
+00:25:05,280 --> 00:25:13,886
+Esto debería ser algo más
+interesante que las normas
+
+228
+00:25:13,887 --> 00:25:19,820
+y la estructura que acabamos de explicar.
+
+229
+00:25:22,220 --> 00:25:28,421
+Está dividido en secciones.
+La primera aborda el
+
+230
+00:25:28,422 --> 00:25:34,820
+problema de una cartera
+tradicional de acciones y bonos.
+
+231
+00:25:38,520 --> 00:25:47,183
+Explico que invertir en Managed
+
+232
+00:25:47,184 --> 00:25:55,861
+Futures o seguir tendencias
+no siempre tiene que
+
+233
+00:25:55,862 --> 00:26:02,039
+ser especulativo, buscando
+maximizar la rentabilidad.
+
+234
+00:26:02,040 --> 00:26:09,000
+La mayoría no utiliza Managed
+Futures de esa manera.
+
+235
+00:26:09,920 --> 00:26:17,079
+Muchos miran la rentabilidad,
+la comparan con la
+
+236
+00:26:17,080 --> 00:26:21,799
+bolsa y deciden si invertir basándose en eso.
+
+237
+00:26:21,800 --> 00:26:29,362
+El libro muestra cómo las instituciones
+y los grandes inversores utilizan este
+
+238
+00:26:29,363 --> 00:26:34,511
+tipo de inversión para diversificar
+entre distintos entornos de mercado,
+
+239
+00:26:34,512 --> 00:26:42,919
+y evitar que sus posiciones se muevan juntas
+al cambiar las condiciones económicas.
+
+240
+00:26:42,920 --> 00:26:50,600
+La mayoría de las carteras depende del
+crecimiento económico y de una bolsa al alza.
+
+241
+00:26:51,400 --> 00:26:58,418
+Muchos programas CTA y estrategias
+Managed Futures no tienen esa correlación.
+
+242
+00:26:58,419 --> 00:27:02,058
+Ofrecen otro componente que no está
+
+243
+00:27:02,059 --> 00:27:10,640
+ligado al crecimiento económico ni a la bolsa.
+
+244
+00:27:11,360 --> 00:27:18,780
+Este sector puede ir bien
+cuando todo lo demás cae.
+
+245
+00:27:20,160 --> 00:27:28,487
+Explico por qué existen las tendencias y cómo
+
+246
+00:27:28,488 --> 00:27:35,271
+surgen, para valorar si continuarán. También
+
+247
+00:27:35,272 --> 00:27:43,780
+repaso las estrategias
+utilizadas en Managed Futures.
+
+248
+00:27:44,600 --> 00:27:49,674
+Después repasamos la historia.
+Esto comenzó cuando los precios
+
+249
+00:27:49,675 --> 00:27:56,780
+pudieron moverse con relativa
+libertad a principios de los setenta.
+
+250
+00:27:58,900 --> 00:28:04,224
+Hablamos de Donchian. Empezamos antes de él,
+
+251
+00:28:04,225 --> 00:28:08,360
+pero con Donchian la historia se
+vuelve especialmente interesante.
+
+252
+00:28:08,460 --> 00:28:12,339
+Luego están Dennis y el proyecto Turtle,
+
+253
+00:28:12,340 --> 00:28:17,640
+y cómo se convirtió en una gran industria.
+
+254
+00:28:19,320 --> 00:28:24,739
+Mencionamos algunas grandes
+firmas con una larga trayectoria.
+
+255
+00:28:24,740 --> 00:28:33,363
+Entre ellas, las suecas
+Brummer y Lynx, y Dunn Capital.
+
+256
+00:28:33,364 --> 00:28:41,964
+Hablamos de cómo este sector
+se ha convertido en una parte
+
+257
+00:28:41,965 --> 00:28:49,180
+relativamente importante de
+las inversiones alternativas.
+
+258
+00:28:50,100 --> 00:28:54,139
+Otra sección explica cómo se gestionan
+las inversiones en la práctica
+
+259
+00:28:54,140 --> 00:28:59,560
+y el papel del inversor, como comentamos hoy.
+
+260
+00:29:01,500 --> 00:29:08,268
+El mayor riesgo no siempre es que el modelo
+
+261
+00:29:08,269 --> 00:29:13,039
+entre en un drawdown y registre pérdidas.
+
+262
+00:29:13,040 --> 00:29:21,518
+El mayor riesgo puede ser el propio inversor.
+
+263
+00:29:21,519 --> 00:29:27,559
+Lo comentamos y pasamos a la
+gestión CTA en la práctica.
+
+264
+00:29:27,560 --> 00:29:34,019
+Seguimos con cómo asignar
+capital a Managed Futures,
+
+265
+00:29:34,020 --> 00:29:37,652
+empezando por el alfa de crisis
+
+266
+00:29:37,653 --> 00:29:45,339
+y la relación con las crisis.
+
+267
+00:29:45,340 --> 00:29:49,559
+Managed Futures ha funcionado muy
+
+268
+00:29:49,560 --> 00:29:57,260
+bien en las crisis, pero no
+necesita una para ir bien.
+
+269
+00:30:00,120 --> 00:30:06,769
+Luego mostramos cómo integrarlo en una
+cartera, con distintas asignaciones,
+
+270
+00:30:06,770 --> 00:30:14,839
+la proporción óptima de Managed
+Futures y cómo elegir un gestor CTA.
+
+271
+00:30:14,840 --> 00:30:18,479
+Analizamos las ventajas e inconvenientes
+de los CTA grandes y pequeños,
+
+272
+00:30:18,480 --> 00:30:25,589
+y terminamos con principios atemporales.
+
+273
+00:30:25,590 --> 00:30:31,849
+También hablamos de cómo se utiliza hoy la IA.
+
+274
+00:30:31,850 --> 00:30:39,799
+Concluimos además que seguir tendencias
+
+275
+00:30:39,800 --> 00:30:47,929
+no exige ser más listo ni más
+inteligente que los demás.
+
+276
+00:30:47,930 --> 00:30:50,589
+No es tan complicado.
+
+277
+00:30:50,590 --> 00:30:56,829
+La inteligencia no es lo
+que os da una ventaja mayor
+
+278
+00:30:56,830 --> 00:31:04,460
+que la de otros al seguir tendencias.
+
+279
+00:31:04,600 --> 00:31:09,279
+La diferencia no está ahí.
+
+280
+00:31:09,280 --> 00:31:13,400
+La estrategia no es el factor decisivo.
+
+281
+00:31:14,400 --> 00:31:23,062
+En el último capítulo pasamos a los modelos
+
+282
+00:31:23,063 --> 00:31:31,028
+cuantitativos y hablamos del CTA más exitoso
+
+283
+00:31:31,029 --> 00:31:36,500
+de la historia: Jim Simons y Renaissance.
+
+284
+00:31:39,770 --> 00:31:45,222
+Si queréis leer el libro, os enviaré
+
+285
+00:31:45,223 --> 00:31:53,660
+una copia.
+
+286
+00:31:57,000 --> 00:32:01,039
+También hemos estado trabajando en una web.
+
+287
+00:32:01,040 --> 00:32:05,620
+Así es como está ahora. Estará lista pronto.
+
+288
+00:32:06,200 --> 00:32:14,269
+Presentaremos la actividad, sobre
+todo la cotización y los resultados,
+
+289
+00:32:14,270 --> 00:32:22,740
+para consultar fácilmente el valor
+de vuestras acciones e inversión.
+
+290
+00:32:26,360 --> 00:32:34,360
+La próxima reunión online será el primer
+jueves del mes: el 5 de noviembre a las 20:00.
+
+291
+00:32:35,680 --> 00:32:41,079
+Seguiremos entonces, con resultados
+que presentar, si todo va bien,
+
+292
+00:32:41,080 --> 00:32:45,860
+además de una parte formativa y preguntas.
+
+293
+00:32:47,360 --> 00:32:54,779
+Antes viajaré por España,
+
+294
+00:32:54,780 --> 00:32:59,360
+a Torrevieja y de nuevo a la Costa del Sol.
+
+295
+00:33:02,680 --> 00:33:08,999
+Si estáis por esas zonas y queréis
+reuniros, contactad con nosotros.
+
+296
+00:33:09,000 --> 00:33:17,586
+Después, Londres el 9 de noviembre,
+
+297
+00:33:17,587 --> 00:33:23,070
+y Uppsala también está
+prevista para noviembre.
+
+298
+00:33:23,071 --> 00:33:28,540
+Anunciaremos los detalles cuando
+hayamos reservado los vuelos.
+
+299
+00:33:31,740 --> 00:33:38,819
+Llegamos a las preguntas y al
+final de la presentación. ¿Ves
+
+300
+00:33:38,820 --> 00:33:47,260
+alguna pregunta, Fredrik?
+¿Tienes acceso al chat?
+
+301
+00:33:55,870 --> 00:34:03,381
+Sí. No ha habido preguntas desde el
+principio, cuando la mayoría confirmó
+
+302
+00:34:03,382 --> 00:34:09,509
+que el sonido funcionaba. Todavía
+no ha llegado ninguna más.
+
+303
+00:34:09,510 --> 00:34:10,500
+También
+
+304
+00:34:13,679 --> 00:34:15,354
+podéis escribirnos por correo.
+
+305
+00:34:15,355 --> 00:34:24,100
+Pronto tendremos direcciones de
+correo más adecuadas para Babylon.
+
+306
+00:34:30,810 --> 00:34:36,330
+Como alguien algo ajeno al sector, también
+quiero recomendar el libro que has escrito.
+
+307
+00:34:37,290 --> 00:34:45,905
+Merece la pena leerlo. Como
+principiante interesado en el
+
+308
+00:34:45,906 --> 00:34:51,890
+sector, me resultó ideal dedicar una
+hora a los tres primeros capítulos.
+
+309
+00:34:54,050 --> 00:34:58,349
+Lo recomiendo encarecidamente a todos.
+
+310
+00:34:58,350 --> 00:35:03,690
+Si os interesa aún más, seguramente
+leeréis también el resto.
+
+311
+00:35:04,590 --> 00:35:11,805
+Pero incluso los primeros
+capítulos os dan una buena
+
+312
+00:35:11,806 --> 00:35:15,190
+idea de lo que hacemos y haremos.
+
+313
+00:35:17,460 --> 00:35:24,902
+He intentado escribirlo para alguien que
+nunca haya oído hablar de Managed Futures
+
+314
+00:35:24,903 --> 00:35:31,320
+y no conozca el sector ni el
+seguimiento de tendencias.
+
+315
+00:35:31,660 --> 00:35:40,262
+No es un libro de estrategias
+en sí. Trata de las ventajas
+
+316
+00:35:40,263 --> 00:35:45,340
+y los inconvenientes de invertir en el sector.
+
+317
+00:35:48,060 --> 00:35:56,680
+También ofrece una visión de otros
+mercados y sus vulnerabilidades.
+
+318
+00:35:57,800 --> 00:35:59,160
+Es realmente interesante.
+
+319
+00:36:00,680 --> 00:36:07,460
+Eso probablemente no os lo contará
+un banco que vende acciones.
+
+320
+00:36:08,280 --> 00:36:09,960
+Sí, desde luego.
+
+321
+00:36:11,380 --> 00:36:12,900
+No muy a menudo.
+
+322
+00:36:13,600 --> 00:36:18,114
+Procuro dejar muy claro que esto no es
+
+323
+00:36:18,115 --> 00:36:25,080
+una crítica a tener
+acciones. Es un complemento.
+
+324
+00:36:26,080 --> 00:36:29,320
+No sustituye en absoluto
+a una cartera de acciones.
+
+325
+00:36:35,320 --> 00:36:42,580
+Creo que podemos terminar aquí.
+También enviaremos un correo.
+
+326
+00:36:43,360 --> 00:36:48,800
+Hoy es el primer día del mes, por
+eso esta vez nos reunimos un jueves.
+
+327
+00:36:49,280 --> 00:36:52,900
+Pronto enviaremos un correo a los inversores.
+
+328
+00:36:58,270 --> 00:37:01,110
+Gracias de mi parte y de parte
+de los dos. Gracias, Fredrik.
+
+329
+00:37:02,980 --> 00:37:04,840
+Muchas gracias, Henrik. Que vaya bien.
